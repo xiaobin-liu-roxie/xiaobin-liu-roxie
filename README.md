@@ -1,16 +1,16 @@
-## Hi there 👋
+# [Xiaobin Liu]
 
-<!--
-**xiaobin-liu-roxie/xiaobin-liu-roxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Affiliation:** JD.com
 
-Here are some ideas to get you started:
+**Email:liuxiaobin28@jd.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- E-commerce Search and Recommendation
+- New Product Discovery and Cold-start Optimization
+- Online Experimentation
+- AI-driven Business Optimization
+
+## About
+
+I work on industrial applications of search and recommendation systems, with a focus on new-product cold-start optimization, potential-aware traffic allocation, and product incubation.
